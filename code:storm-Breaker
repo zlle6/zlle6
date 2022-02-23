@@ -1,0 +1,2 @@
+cd Storm-Breaker
+sudo python3 Storm-Breaker.py
